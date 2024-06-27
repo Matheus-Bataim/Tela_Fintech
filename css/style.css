@@ -1,0 +1,28 @@
+body{
+    background-color: #0A1343;
+}
+#icone_mais{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-content: center;
+    overflow: visible;
+}
+#back{
+    color: aliceblue;
+    font-style:italic;
+
+}
+
+#Formulario{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+h1{
+    color: aliceblue;
+    background-color: #0047FF;
+}
+#navtop{
+    background:linear-gradient(to top right,#0047FF,#0bc56c)
+}
